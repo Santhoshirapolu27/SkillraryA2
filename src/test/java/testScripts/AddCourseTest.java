@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericUtilities.BaseClass;
 import genericUtilities.IConstantPath;
-
+//commiting this script
 	public class AddCourseTest extends BaseClass {
 		 @Test
 		 public void addCourseTest() {
