@@ -8,6 +8,7 @@ import org.testng.asserts.SoftAssert;
 import genericUtilities.IConstantPath;
 
 public class AddCategoryTest {
+	// AddCategoryTest Has Commented in script
 	@Test
 	public void addcategoryTest() {
 		SoftAssert soft = new SoftAssert();
