@@ -14,7 +14,7 @@ import org.testng.annotations.AfterClass;
 	import pomPages.HomePage;
 	import pomPages.UserPage;
 	import pomPages.LoginPage;
-
+//This Script is a Base class reference
 	public class BaseClass {
 		protected WebDriver driver;
 		protected PropertiesUtility property;
